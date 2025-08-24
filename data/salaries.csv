@@ -1,0 +1,601 @@
+cargo,nivel,anos_experiencia,regiao,genero,remoto,stack,salario_brl
+Desenvolvedor Backend,Pleno,4,Norte,Feminino,Sim,".NET,Java,Mobile,SQL",8151.8
+Engenheiro de DevOps,Sênior,8,Sudeste,Feminino,Não,"JavaScript,Mobile,Python",19590.84
+Desenvolvedor Frontend,Sênior,8,Sudeste,Masculino,Não,"Cloud,Data,Mobile,Python",13761.39
+Engenheiro de Software,Sênior,8,Sul,Masculino,Sim,"JavaScript,Python,SQL",18537.06
+Analista de Suporte,Pleno,4,Sudeste,Masculino,Sim,"Java,JavaScript,Mobile",8093.16
+Analista de Suporte,Sênior,9,Sudeste,Masculino,Sim,"Java,JavaScript",9253.4
+Desenvolvedor Backend,Júnior,0,Nordeste,Masculino,Não,"Mobile,Python",5684.93
+Engenheiro de DevOps,Sênior,6,Sul,Masculino,Sim,"Data,Java,Mobile,Python",22662.95
+Engenheiro de DevOps,Sênior,9,Nordeste,Feminino,Sim,".NET,Cloud,Mobile",17618.61
+Desenvolvedor Frontend,Sênior,6,Sudeste,Masculino,Não,"Java,SQL",14044.07
+Desenvolvedor Frontend,Sênior,10,Nordeste,Masculino,Não,"Cloud,Data,JavaScript,SQL",12704.82
+Engenheiro de DevOps,Júnior,0,Sudeste,Masculino,Sim,".NET,Data,JavaScript,Python",10047.19
+Desenvolvedor Backend,Júnior,0,Sul,Masculino,Sim,"Data,Java,SQL",7233.91
+Analista de QA,Júnior,4,Sudeste,Feminino,Sim,"Cloud,Java,Mobile",6301.27
+Desenvolvedor Backend,Pleno,4,Sul,Masculino,Sim,"Mobile,Python",9301.9
+Analista de QA,Júnior,2,Sul,Masculino,Não,"Cloud,Data,Mobile,SQL",5425.16
+Engenheiro de DevOps,Sênior,10,Sul,Masculino,Sim,"Java,Mobile,Python",19896.29
+Engenheiro de Software,Sênior,9,Centro-Oeste,Feminino,Não,"JavaScript,Mobile,Python,SQL",18611.66
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Sim,"Cloud,Python",9927.73
+Engenheiro de DevOps,Júnior,0,Sudeste,Feminino,Sim,".NET,Cloud,SQL",13683.62
+Desenvolvedor Backend,Júnior,1,Nordeste,Masculino,Sim,"JavaScript,SQL",6854.33
+Analista de Suporte,Júnior,0,Centro-Oeste,Masculino,Não,"Cloud,Data,JavaScript,Python",4489.52
+Cientista de Dados,Pleno,4,Centro-Oeste,Masculino,Sim,".NET,Java,SQL",13299.43
+Cientista de Dados,Pleno,4,Nordeste,Masculino,Sim,".NET,Cloud,Data,SQL",15935.33
+Desenvolvedor Backend,Pleno,3,Sul,Masculino,Não,"Cloud,Java,JavaScript,SQL",8514.44
+Analista de QA,Pleno,3,Sudeste,Masculino,Sim,"Java,Python,SQL",9687.04
+Analista de Suporte,Sênior,8,Sudeste,Feminino,Sim,"Cloud,Java,Mobile",12139.25
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Sim,".NET,SQL",8652.64
+Analista de QA,Pleno,4,Sudeste,Feminino,Não,".NET,Data,Java,Python",7853.71
+Desenvolvedor Frontend,Júnior,3,Sudeste,Feminino,Sim,"Cloud,Data,JavaScript",6626.11
+Engenheiro de Software,Pleno,4,Sul,Masculino,Não,"Cloud,Mobile",8906.69
+Analista de Suporte,Pleno,5,Sudeste,Masculino,Não,".NET,Cloud,Data,SQL",6724.87
+Analista de Suporte,Júnior,0,Sul,Masculino,Não,".NET,SQL",5151.64
+Cientista de Dados,Pleno,3,Centro-Oeste,Feminino,Não,"Cloud,Data",11448.82
+Engenheiro de Software,Júnior,1,Sul,Feminino,Sim,".NET,Mobile",7436.6
+Analista de QA,Júnior,0,Sudeste,Feminino,Não,"Java,SQL",7824.48
+Analista de QA,Júnior,3,Centro-Oeste,Feminino,Sim,".NET,SQL",6342.73
+Analista de QA,Sênior,9,Sudeste,Masculino,Sim,".NET,Data,Java,JavaScript",15373.65
+Desenvolvedor Frontend,Sênior,9,Sudeste,Feminino,Sim,"Cloud,Java,Python",14027.87
+Engenheiro de Software,Júnior,2,Sudeste,Masculino,Sim,"Cloud,Data,Python",9708.14
+Analista de QA,Pleno,3,Sudeste,Feminino,Sim,"Data,JavaScript,Mobile",8054.96
+Desenvolvedor Backend,Júnior,1,Sudeste,Masculino,Não,"Mobile,Python,SQL",7220.2
+Analista de QA,Júnior,0,Sudeste,Masculino,Não,"Data,JavaScript,SQL",4931.04
+Desenvolvedor Frontend,Sênior,9,Sul,Masculino,Não,".NET,Data",11668.93
+Engenheiro de Software,Pleno,4,Nordeste,Masculino,Não,".NET,Cloud,Data,Mobile",9978.3
+Desenvolvedor Frontend,Pleno,3,Nordeste,Feminino,Sim,"Cloud,Mobile",6626.86
+Engenheiro de DevOps,Júnior,0,Sudeste,Feminino,Não,"Java,JavaScript,Mobile",9385.36
+Analista de QA,Pleno,7,Nordeste,Masculino,Não,"Data,Java,JavaScript,SQL",6794.65
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Não,".NET,Cloud,Mobile",15930.96
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Java,Mobile,Python",5193.59
+Cientista de Dados,Pleno,6,Sudeste,Masculino,Sim,"Cloud,Java",13310.25
+Engenheiro de Software,Júnior,0,Sudeste,Masculino,Sim,".NET,JavaScript,SQL",9193.85
+Analista de Suporte,Pleno,2,Sudeste,Masculino,Sim,"Data,Mobile",6649.78
+Engenheiro de DevOps,Pleno,2,Sul,Masculino,Sim,"Java,Mobile",14220.41
+Engenheiro de DevOps,Júnior,2,Centro-Oeste,Masculino,Sim,"Cloud,Mobile",9668.77
+Engenheiro de DevOps,Júnior,0,Centro-Oeste,Masculino,Não,"Cloud,Data,JavaScript,Mobile",11961.31
+Engenheiro de DevOps,Pleno,5,Sudeste,Masculino,Não,".NET,Data,Python",13285.0
+Desenvolvedor Backend,Júnior,0,Sudeste,Masculino,Não,"Cloud,Data,Java,Python",7537.18
+Desenvolvedor Frontend,Sênior,8,Nordeste,Masculino,Sim,".NET,Data,Mobile,SQL",11355.58
+Analista de Suporte,Sênior,9,Nordeste,Masculino,Não,".NET,Data,JavaScript,Mobile",11297.87
+Engenheiro de DevOps,Júnior,0,Sudeste,Masculino,Sim,"Cloud,Data,Mobile",11614.26
+Desenvolvedor Frontend,Pleno,5,Sudeste,Masculino,Não,"Cloud,Java,JavaScript",8831.43
+Desenvolvedor Frontend,Sênior,7,Nordeste,Masculino,Não,"Data,JavaScript,Mobile,Python",10452.28
+Desenvolvedor Frontend,Pleno,3,Centro-Oeste,Masculino,Sim,".NET,Python,SQL",8721.81
+Engenheiro de Software,Júnior,3,Centro-Oeste,Masculino,Sim,".NET,Java,Python,SQL",8111.25
+Analista de Suporte,Sênior,9,Sudeste,Feminino,Sim,".NET,Python",10171.9
+Desenvolvedor Frontend,Pleno,2,Sudeste,Feminino,Sim,"Java,Python",10899.49
+Desenvolvedor Frontend,Júnior,0,Sul,Masculino,Não,"Cloud,Data,Java,Mobile",5769.42
+Engenheiro de DevOps,Sênior,6,Sudeste,Masculino,Sim,"Python,SQL",20021.21
+Engenheiro de DevOps,Júnior,3,Sudeste,Masculino,Não,".NET,JavaScript,Mobile,Python",11546.71
+Desenvolvedor Frontend,Júnior,1,Sudeste,Masculino,Não,".NET,Cloud,Data,JavaScript",6189.16
+Desenvolvedor Frontend,Pleno,4,Centro-Oeste,Feminino,Sim,".NET,Cloud,Mobile,SQL",7061.98
+Engenheiro de Software,Júnior,1,Sudeste,Masculino,Não,"Java,JavaScript,Mobile,SQL",9429.5
+Desenvolvedor Frontend,Pleno,3,Centro-Oeste,Masculino,Sim,".NET,Data,Mobile,Python",8164.83
+Engenheiro de Software,Júnior,3,Sudeste,Masculino,Sim,".NET,Java,Mobile",9774.53
+Engenheiro de DevOps,Júnior,1,Sudeste,Masculino,Não,"Data,Java,SQL",11886.31
+Desenvolvedor Backend,Pleno,3,Sudeste,Masculino,Sim,".NET,Mobile,Python",9757.07
+Engenheiro de Software,Júnior,2,Nordeste,Feminino,Não,".NET,Java",8335.35
+Desenvolvedor Frontend,Sênior,10,Sul,Masculino,Não,"Java,JavaScript,Python,SQL",12714.99
+Cientista de Dados,Sênior,10,Sudeste,Feminino,Não,".NET,SQL",15979.57
+Desenvolvedor Frontend,Pleno,4,Sudeste,Masculino,Não,".NET,Cloud,Java",10518.33
+Engenheiro de Software,Sênior,10,Sudeste,Masculino,Sim,"Data,Java,JavaScript",22451.39
+Engenheiro de Software,Pleno,4,Sudeste,Feminino,Sim,"Java,JavaScript,SQL",10869.47
+Analista de QA,Júnior,0,Sudeste,Masculino,Sim,".NET,Data,Java,JavaScript",6255.81
+Cientista de Dados,Pleno,4,Sul,Masculino,Não,"JavaScript,Python",11019.66
+Analista de QA,Júnior,4,Sudeste,Masculino,Não,"Cloud,Java,Mobile",7079.05
+Desenvolvedor Frontend,Júnior,3,Norte,Feminino,Não,".NET,JavaScript",6011.19
+Engenheiro de DevOps,Júnior,2,Sul,Feminino,Sim,"Mobile,SQL",9682.63
+Desenvolvedor Backend,Sênior,10,Sudeste,Masculino,Sim,"Cloud,Java",18168.77
+Desenvolvedor Backend,Sênior,6,Sudeste,Masculino,Não,"Java,JavaScript",14499.32
+Cientista de Dados,Júnior,1,Sudeste,Masculino,Não,"Java,JavaScript,Mobile,Python",9764.03
+Desenvolvedor Backend,Pleno,3,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile,Python",7906.23
+Cientista de Dados,Sênior,8,Nordeste,Masculino,Sim,".NET,Python",15653.43
+Desenvolvedor Frontend,Pleno,4,Norte,Feminino,Não,"Cloud,Data,JavaScript",7845.86
+Analista de Suporte,Pleno,5,Sudeste,Masculino,Sim,"Cloud,Data,SQL",7040.06
+Analista de QA,Pleno,1,Sudeste,Feminino,Sim,"JavaScript,SQL",7818.97
+Engenheiro de Software,Júnior,0,Centro-Oeste,Masculino,Sim,"Java,Mobile",9402.67
+Desenvolvedor Frontend,Pleno,2,Sudeste,Masculino,Não,"Data,JavaScript",8994.4
+Analista de Suporte,Pleno,5,Sudeste,Feminino,Não,"Cloud,Data,Python,SQL",7506.43
+Analista de QA,Pleno,3,Sul,Feminino,Sim,".NET,Cloud,Data,Mobile",7278.56
+Desenvolvedor Backend,Sênior,9,Nordeste,Masculino,Sim,".NET,Python",13641.66
+Cientista de Dados,Pleno,6,Sudeste,Feminino,Sim,"Cloud,JavaScript,Python",12645.65
+Desenvolvedor Frontend,Sênior,8,Sudeste,Feminino,Não,".NET,Mobile,SQL",15358.6
+Desenvolvedor Frontend,Pleno,3,Sudeste,Masculino,Não,".NET,Python",9483.0
+Desenvolvedor Backend,Júnior,2,Sudeste,Feminino,Não,"Cloud,Java",7075.31
+Engenheiro de Software,Júnior,3,Sudeste,Masculino,Não,"Cloud,Java,SQL",6707.75
+Engenheiro de Software,Júnior,1,Nordeste,Masculino,Não,"Data,Mobile,SQL",6704.47
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Data,Java",5249.34
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Não,"Mobile,Python,SQL",11647.02
+Analista de QA,Júnior,0,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile",5827.06
+Cientista de Dados,Sênior,9,Sudeste,Masculino,Não,"Mobile,Python,SQL",18519.78
+Analista de Suporte,Pleno,3,Centro-Oeste,Masculino,Não,"Cloud,Java,Python",7414.17
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Não,"Cloud,JavaScript,Mobile,Python",6603.86
+Analista de QA,Pleno,3,Sudeste,Masculino,Não,"Data,Mobile,Python",8683.13
+Analista de QA,Júnior,5,Sudeste,Masculino,Não,"Cloud,Java,JavaScript,Mobile",7306.81
+Cientista de Dados,Pleno,5,Sul,Masculino,Sim,"Cloud,Java,SQL",15149.36
+Analista de QA,Pleno,3,Sudeste,Masculino,Não,"Data,Java,JavaScript,SQL",7773.49
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Sim,".NET,Python,SQL",6358.23
+Engenheiro de DevOps,Júnior,0,Nordeste,Masculino,Não,".NET,Cloud,Java,SQL",8788.11
+Engenheiro de DevOps,Sênior,9,Sudeste,Masculino,Não,"Python,SQL",16771.93
+Engenheiro de DevOps,Pleno,3,Nordeste,Masculino,Não,"Cloud,Data,Java",10722.67
+Engenheiro de Software,Júnior,2,Sul,Masculino,Sim,".NET,Cloud,Mobile,Python",9494.1
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Data,Java,JavaScript,Python",7284.23
+Engenheiro de DevOps,Júnior,1,Nordeste,Masculino,Sim,".NET,JavaScript,Mobile,SQL",9104.7
+Analista de Suporte,Júnior,2,Nordeste,Feminino,Não,"Data,JavaScript,Python,SQL",3874.2
+Analista de QA,Pleno,3,Sudeste,Feminino,Não,".NET,Cloud",8079.84
+Analista de QA,Sênior,10,Sudeste,Feminino,Sim,".NET,Mobile,Python",15201.8
+Engenheiro de DevOps,Pleno,1,Sudeste,Masculino,Sim,".NET,Java,Mobile,SQL",15531.13
+Analista de QA,Pleno,3,Sudeste,Masculino,Sim,"Java,Mobile",10541.38
+Analista de QA,Pleno,4,Sudeste,Feminino,Sim,"Cloud,JavaScript,Mobile,Python",7253.83
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,"Data,Java,Python",6481.25
+Engenheiro de DevOps,Sênior,8,Nordeste,Masculino,Sim,".NET,JavaScript,Mobile",19216.35
+Engenheiro de Software,Sênior,9,Sul,Masculino,Não,".NET,Java,JavaScript,Python",14987.48
+Cientista de Dados,Pleno,6,Nordeste,Feminino,Sim,"Data,Java,Mobile",11078.72
+Engenheiro de DevOps,Pleno,3,Sul,Masculino,Não,".NET,Cloud,JavaScript",12053.08
+Engenheiro de DevOps,Pleno,3,Sudeste,Masculino,Sim,".NET,Java",17267.6
+Engenheiro de Software,Júnior,1,Sudeste,Feminino,Não,"Java,JavaScript,Mobile",9765.85
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Sim,"Data,Java,Python",14868.3
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Não,"Data,JavaScript,Mobile,SQL",11586.38
+Desenvolvedor Backend,Pleno,5,Norte,Masculino,Não,".NET,Mobile",8974.19
+Engenheiro de DevOps,Sênior,8,Sudeste,Masculino,Sim,"Data,JavaScript",22684.36
+Analista de Suporte,Pleno,3,Sudeste,Feminino,Não,"Data,Mobile,Python",6576.86
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Não,".NET,Java,Python,SQL",6757.97
+Engenheiro de DevOps,Sênior,9,Sudeste,Feminino,Sim,"Java,Python,SQL",23288.67
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Não,".NET,JavaScript,SQL",5768.27
+Desenvolvedor Frontend,Júnior,2,Centro-Oeste,Feminino,Sim,".NET,Data,JavaScript,Python",5951.88
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Data,Java,Python",6136.12
+Desenvolvedor Frontend,Júnior,2,Nordeste,Masculino,Sim,".NET,Cloud,Data,Mobile",5830.99
+Engenheiro de DevOps,Júnior,0,Sul,Masculino,Sim,"Cloud,Data,JavaScript,Python",11557.31
+Desenvolvedor Backend,Pleno,4,Nordeste,Masculino,Não,"Cloud,Java,Mobile,Python",7943.93
+Cientista de Dados,Pleno,3,Sudeste,Masculino,Não,".NET,JavaScript,Python",11288.49
+Desenvolvedor Backend,Pleno,3,Sudeste,Feminino,Sim,"Java,JavaScript,Mobile",10916.12
+Analista de QA,Sênior,8,Sudeste,Feminino,Sim,".NET,JavaScript",15138.64
+Desenvolvedor Backend,Sênior,10,Sul,Masculino,Sim,"Cloud,Python",14531.21
+Engenheiro de DevOps,Júnior,1,Sudeste,Feminino,Não,"Java,Python,SQL",10477.72
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Não,"Mobile,Python,SQL",4886.46
+Desenvolvedor Backend,Júnior,1,Sul,Feminino,Não,".NET,JavaScript,SQL",6517.58
+Engenheiro de Software,Pleno,4,Sudeste,Masculino,Sim,".NET,Cloud,SQL",11765.13
+Analista de Suporte,Sênior,8,Sul,Masculino,Sim,"Data,Mobile",11441.94
+Analista de Suporte,Pleno,3,Nordeste,Feminino,Não,".NET,Java,Python,SQL",5013.37
+Cientista de Dados,Sênior,9,Sudeste,Masculino,Não,".NET,Python",18097.69
+Desenvolvedor Frontend,Sênior,9,Sudeste,Masculino,Sim,"Data,Python",15968.92
+Engenheiro de Software,Júnior,0,Nordeste,Feminino,Não,"Cloud,JavaScript,Python",6847.91
+Analista de Suporte,Júnior,2,Sudeste,Masculino,Não,"Java,JavaScript",5122.12
+Desenvolvedor Frontend,Pleno,3,Sudeste,Masculino,Sim,"Cloud,JavaScript,Python",9491.61
+Desenvolvedor Backend,Pleno,5,Sudeste,Masculino,Não,".NET,Java,SQL",9892.39
+Analista de QA,Júnior,3,Sudeste,Masculino,Não,"Java,Mobile,Python",7061.36
+Engenheiro de Software,Júnior,0,Sudeste,Masculino,Não,"Cloud,Data,Mobile,Python",10089.41
+Analista de QA,Júnior,2,Sudeste,Feminino,Sim,"Data,JavaScript",6048.58
+Analista de Suporte,Pleno,3,Sul,Masculino,Não,".NET,Cloud,Java,Mobile",4897.8
+Cientista de Dados,Pleno,3,Sudeste,Feminino,Não,"Data,Mobile,SQL",10823.99
+Engenheiro de DevOps,Pleno,4,Sul,Feminino,Sim,"Data,Java,Python",13648.11
+Desenvolvedor Frontend,Pleno,5,Nordeste,Masculino,Sim,"Cloud,Java,Mobile,SQL",7410.87
+Cientista de Dados,Júnior,1,Sudeste,Feminino,Sim,".NET,Cloud,Java,JavaScript",10279.01
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,".NET,Mobile",9904.01
+Cientista de Dados,Pleno,3,Norte,Masculino,Sim,".NET,JavaScript,Python,SQL",12061.16
+Engenheiro de DevOps,Pleno,3,Sudeste,Masculino,Sim,"Data,Java,Mobile",13973.56
+Desenvolvedor Frontend,Sênior,8,Nordeste,Masculino,Sim,"Java,SQL",12324.95
+Analista de QA,Júnior,0,Sudeste,Feminino,Sim,"Cloud,JavaScript,SQL",7071.52
+Analista de QA,Pleno,5,Sudeste,Masculino,Não,".NET,Java,Python",8158.58
+Analista de QA,Pleno,4,Sul,Feminino,Sim,"Cloud,Java,JavaScript",8695.44
+Desenvolvedor Frontend,Júnior,1,Sudeste,Masculino,Sim,"Cloud,Java",7574.21
+Desenvolvedor Backend,Júnior,0,Norte,Masculino,Sim,"Java,JavaScript,Mobile",5761.36
+Engenheiro de Software,Pleno,4,Sudeste,Masculino,Não,".NET,Data,Python",12102.37
+Cientista de Dados,Pleno,5,Sudeste,Masculino,Não,"Java,Mobile",12541.86
+Analista de QA,Júnior,1,Nordeste,Masculino,Não,".NET,Cloud,Java,SQL",6349.55
+Analista de Suporte,Sênior,9,Nordeste,Masculino,Sim,"Cloud,Java",9686.9
+Engenheiro de DevOps,Sênior,7,Sudeste,Masculino,Sim,".NET,Mobile,Python",25128.78
+Cientista de Dados,Sênior,8,Sudeste,Feminino,Sim,".NET,Cloud,Mobile,SQL",17430.73
+Analista de Suporte,Pleno,4,Centro-Oeste,Masculino,Sim,"Mobile,Python,SQL",6924.86
+Engenheiro de Software,Júnior,0,Centro-Oeste,Masculino,Não,"Mobile,Python,SQL",9151.05
+Desenvolvedor Frontend,Sênior,6,Sudeste,Feminino,Sim,"Cloud,Data,JavaScript",14516.13
+Desenvolvedor Frontend,Pleno,2,Sudeste,Feminino,Não,".NET,JavaScript",7959.28
+Engenheiro de DevOps,Sênior,7,Centro-Oeste,Masculino,Sim,"Mobile,Python",19810.63
+Analista de Suporte,Júnior,1,Sudeste,Masculino,Não,"Cloud,Data,Python",4990.38
+Analista de QA,Pleno,3,Norte,Masculino,Sim,".NET,JavaScript,Python,SQL",7536.67
+Desenvolvedor Backend,Júnior,2,Sudeste,Feminino,Sim,"Data,Python",7069.3
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Sim,".NET,JavaScript,Python",14219.39
+Engenheiro de DevOps,Pleno,3,Centro-Oeste,Masculino,Não,".NET,Java,Mobile,Python",13171.09
+Engenheiro de DevOps,Júnior,2,Sul,Masculino,Não,".NET,Data,Python",12186.65
+Engenheiro de Software,Júnior,2,Sudeste,Masculino,Sim,"Cloud,JavaScript,Python,SQL",10177.22
+Engenheiro de Software,Pleno,3,Sul,Masculino,Sim,".NET,Data,Mobile",12225.51
+Engenheiro de Software,Pleno,2,Sudeste,Feminino,Não,"Data,Python,SQL",9865.26
+Cientista de Dados,Sênior,7,Nordeste,Masculino,Sim,"Data,Java",14589.91
+Engenheiro de Software,Pleno,5,Sudeste,Feminino,Não,".NET,Cloud,Mobile,SQL",10367.14
+Analista de QA,Pleno,3,Sudeste,Feminino,Sim,"Cloud,Java,JavaScript,Mobile",8195.67
+Engenheiro de Software,Pleno,2,Sudeste,Feminino,Sim,"Cloud,JavaScript,Python",11284.07
+Engenheiro de Software,Sênior,8,Sudeste,Masculino,Sim,".NET,JavaScript",16033.35
+Desenvolvedor Backend,Pleno,2,Sudeste,Feminino,Sim,"Data,Python",7219.54
+Analista de QA,Júnior,1,Sul,Masculino,Não,".NET,Cloud,Java,SQL",5237.0
+Analista de QA,Pleno,0,Sudeste,Feminino,Sim,"Mobile,Python",8979.88
+Desenvolvedor Frontend,Pleno,6,Sudeste,Masculino,Sim,"Java,Python",8187.55
+Analista de Suporte,Pleno,5,Sudeste,Feminino,Sim,"Cloud,JavaScript",7643.77
+Desenvolvedor Backend,Júnior,2,Nordeste,Masculino,Sim,".NET,Data,Python",6613.24
+Desenvolvedor Backend,Sênior,9,Sudeste,Feminino,Não,"Cloud,Data,Mobile,Python",14134.06
+Engenheiro de DevOps,Júnior,1,Sudeste,Masculino,Não,"Data,Java,JavaScript",9491.85
+Analista de Suporte,Sênior,8,Sudeste,Feminino,Não,"Python,SQL",10334.8
+Engenheiro de DevOps,Pleno,4,Nordeste,Masculino,Não,".NET,Cloud,JavaScript,SQL",9138.81
+Desenvolvedor Frontend,Pleno,3,Sul,Masculino,Sim,".NET,Data,Mobile,SQL",7341.41
+Cientista de Dados,Júnior,0,Nordeste,Masculino,Sim,".NET,Java,SQL",8134.16
+Analista de QA,Pleno,4,Norte,Masculino,Sim,"Data,JavaScript",9612.22
+Analista de Suporte,Pleno,1,Sudeste,Masculino,Sim,"Java,Mobile,Python",6938.5
+Desenvolvedor Backend,Júnior,2,Sul,Masculino,Não,".NET,Cloud,JavaScript,SQL",6265.82
+Desenvolvedor Backend,Júnior,2,Nordeste,Masculino,Sim,"Data,Python",6084.0
+Engenheiro de DevOps,Júnior,0,Nordeste,Feminino,Sim,"Data,Mobile",9930.87
+Engenheiro de Software,Júnior,2,Sudeste,Masculino,Não,"Python,SQL",8499.76
+Engenheiro de Software,Pleno,3,Sul,Masculino,Sim,"Cloud,Data,Mobile,SQL",10961.78
+Desenvolvedor Frontend,Pleno,3,Sudeste,Feminino,Não,"Data,Python",9046.12
+Cientista de Dados,Júnior,1,Sul,Feminino,Sim,"JavaScript,Python",9776.32
+Engenheiro de Software,Pleno,4,Sudeste,Masculino,Sim,"Data,JavaScript,SQL",13387.42
+Engenheiro de DevOps,Júnior,1,Nordeste,Feminino,Sim,"Data,JavaScript,Python",8777.12
+Analista de QA,Júnior,2,Sudeste,Feminino,Não,".NET,JavaScript,Python",7418.76
+Engenheiro de DevOps,Pleno,6,Sudeste,Feminino,Não,".NET,Cloud,JavaScript,Python",14763.24
+Analista de Suporte,Sênior,7,Sul,Masculino,Sim,"Cloud,Data,JavaScript",9676.68
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,"Java,Python",10577.54
+Desenvolvedor Backend,Júnior,0,Centro-Oeste,Masculino,Sim,".NET,JavaScript,Mobile,SQL",6825.15
+Desenvolvedor Frontend,Sênior,8,Sudeste,Masculino,Sim,"Java,JavaScript",14369.7
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,"Cloud,Mobile",5663.03
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Cloud,Data,Python",6443.38
+Analista de QA,Júnior,0,Sudeste,Feminino,Não,".NET,SQL",7472.42
+Desenvolvedor Frontend,Júnior,1,Sul,Masculino,Sim,"Data,JavaScript,Python",6471.68
+Engenheiro de DevOps,Pleno,5,Nordeste,Masculino,Não,".NET,Java,Python",14411.96
+Desenvolvedor Frontend,Júnior,1,Sudeste,Masculino,Não,".NET,Cloud,JavaScript,Python",5412.9
+Engenheiro de Software,Pleno,5,Sudeste,Masculino,Sim,".NET,SQL",13380.21
+Analista de QA,Júnior,2,Norte,Masculino,Não,"Java,Python",6713.32
+Analista de QA,Júnior,1,Sudeste,Feminino,Não,"Java,Mobile",5279.58
+Analista de Suporte,Júnior,0,Sudeste,Feminino,Sim,"Cloud,SQL",5359.83
+Desenvolvedor Frontend,Pleno,5,Sudeste,Masculino,Não,".NET,Data,JavaScript,Python",9173.0
+Analista de QA,Pleno,3,Sudeste,Masculino,Sim,"Data,Java,Python,SQL",10131.11
+Engenheiro de Software,Sênior,9,Sudeste,Masculino,Sim,".NET,SQL",17921.19
+Desenvolvedor Frontend,Pleno,5,Sul,Masculino,Sim,".NET,Cloud,Data",7710.44
+Analista de QA,Pleno,4,Nordeste,Masculino,Sim,"Data,SQL",7212.2
+Engenheiro de DevOps,Júnior,1,Centro-Oeste,Masculino,Sim,"JavaScript,Python",10623.11
+Analista de QA,Pleno,3,Sudeste,Masculino,Sim,"Cloud,JavaScript,SQL",7373.98
+Engenheiro de DevOps,Pleno,3,Nordeste,Masculino,Não,".NET,Cloud,Data,Python",11928.99
+Analista de QA,Pleno,3,Sudeste,Masculino,Não,"Cloud,Data,Java,SQL",9136.23
+Engenheiro de Software,Pleno,2,Nordeste,Feminino,Sim,"Data,Python",9340.17
+Engenheiro de DevOps,Pleno,3,Centro-Oeste,Masculino,Sim,".NET,SQL",12485.23
+Engenheiro de Software,Sênior,8,Sul,Masculino,Não,"Java,Mobile,Python",14041.67
+Analista de QA,Sênior,7,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile",13934.87
+Cientista de Dados,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript,SQL",13623.35
+Cientista de Dados,Júnior,2,Norte,Masculino,Sim,"Cloud,Data,Java,Mobile",6848.1
+Analista de QA,Pleno,6,Sul,Masculino,Sim,"Cloud,Data,Java,JavaScript",8001.49
+Cientista de Dados,Júnior,0,Centro-Oeste,Masculino,Não,"JavaScript,Mobile,Python",9377.03
+Desenvolvedor Frontend,Pleno,2,Norte,Masculino,Não,".NET,JavaScript,SQL",7391.82
+Analista de Suporte,Pleno,2,Centro-Oeste,Masculino,Sim,".NET,SQL",7049.84
+Engenheiro de Software,Pleno,6,Sudeste,Masculino,Não,".NET,JavaScript,Python,SQL",11922.94
+Engenheiro de Software,Pleno,3,Sul,Masculino,Não,"Java,Mobile,SQL",12739.76
+Cientista de Dados,Pleno,5,Sudeste,Feminino,Sim,".NET,Cloud,JavaScript",14482.9
+Engenheiro de Software,Pleno,3,Nordeste,Masculino,Sim,"Cloud,Java,JavaScript,Mobile",10568.41
+Cientista de Dados,Júnior,3,Sul,Masculino,Sim,".NET,Cloud,Mobile,SQL",9830.0
+Desenvolvedor Backend,Júnior,1,Sudeste,Masculino,Não,"Python,SQL",6406.43
+Desenvolvedor Backend,Pleno,3,Sudeste,Masculino,Sim,"Java,JavaScript",8417.9
+Desenvolvedor Frontend,Júnior,0,Sudeste,Feminino,Sim,".NET,Mobile",7385.79
+Cientista de Dados,Pleno,5,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript,Python",15248.7
+Analista de QA,Pleno,2,Sudeste,Masculino,Sim,".NET,Cloud,Java,SQL",8947.12
+Engenheiro de Software,Júnior,3,Sudeste,Masculino,Sim,"Java,Mobile,Python,SQL",9236.5
+Analista de Suporte,Sênior,8,Sul,Masculino,Não,".NET,Cloud",12031.87
+Cientista de Dados,Sênior,10,Sudeste,Feminino,Sim,".NET,Cloud",18409.81
+Cientista de Dados,Sênior,11,Sudeste,Masculino,Não,"JavaScript,Mobile,Python",19799.69
+Desenvolvedor Backend,Júnior,1,Sudeste,Masculino,Não,".NET,Mobile",6568.95
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,"Data,JavaScript,Python,SQL",9937.13
+Engenheiro de Software,Júnior,1,Centro-Oeste,Masculino,Sim,"Data,Java,Python,SQL",9263.93
+Engenheiro de Software,Pleno,3,Nordeste,Feminino,Sim,"Cloud,Data,JavaScript,Mobile",12824.25
+Analista de QA,Pleno,4,Sul,Feminino,Sim,"Cloud,Data,Java,Python",8448.55
+Desenvolvedor Backend,Pleno,4,Sul,Feminino,Sim,"JavaScript,Mobile,SQL",8391.09
+Desenvolvedor Backend,Júnior,0,Sudeste,Masculino,Sim,"Cloud,Data,Mobile",5678.7
+Analista de Suporte,Sênior,8,Sudeste,Masculino,Sim,".NET,Data,Java,Python",12563.35
+Analista de QA,Júnior,0,Sul,Feminino,Sim,"JavaScript,SQL",6058.16
+Desenvolvedor Frontend,Júnior,0,Sul,Masculino,Não,".NET,Java,JavaScript,Python",7036.65
+Engenheiro de DevOps,Pleno,4,Norte,Feminino,Não,".NET,Cloud",10793.75
+Desenvolvedor Frontend,Júnior,1,Sudeste,Feminino,Sim,"Cloud,Data,Java,Mobile",6815.01
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Não,".NET,Cloud,Java,Mobile",15685.17
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Não,"Java,Mobile",10478.0
+Desenvolvedor Backend,Pleno,3,Centro-Oeste,Feminino,Sim,"Cloud,Java,Mobile",10053.09
+Cientista de Dados,Pleno,3,Sudeste,Masculino,Não,"Mobile,SQL",10894.06
+Desenvolvedor Backend,Pleno,3,Sul,Feminino,Não,".NET,JavaScript,Mobile",8238.95
+Desenvolvedor Backend,Pleno,4,Nordeste,Masculino,Sim,"Cloud,Python",8214.12
+Cientista de Dados,Pleno,4,Sudeste,Feminino,Não,"Cloud,JavaScript",9497.02
+Analista de QA,Pleno,1,Sul,Feminino,Sim,"Java,Mobile,SQL",6154.02
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Sim,"JavaScript,Python,SQL",12519.23
+Analista de QA,Júnior,1,Norte,Masculino,Sim,"Cloud,Java,Mobile,Python",5027.24
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Sim,".NET,Cloud,JavaScript,SQL",11814.98
+Desenvolvedor Backend,Pleno,1,Sul,Masculino,Não,".NET,Cloud,JavaScript,Mobile",7505.85
+Engenheiro de Software,Pleno,3,Nordeste,Masculino,Sim,"Cloud,Mobile,Python,SQL",9441.27
+Analista de QA,Pleno,1,Sudeste,Masculino,Não,"Data,Mobile",6976.06
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Sim,"Cloud,Java,Python",16129.58
+Cientista de Dados,Pleno,3,Sul,Masculino,Sim,"Java,Mobile,SQL",14382.76
+Engenheiro de Software,Pleno,4,Sudeste,Masculino,Sim,"Data,JavaScript,Mobile",11668.98
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Sim,".NET,Cloud",15890.66
+Desenvolvedor Frontend,Pleno,4,Sul,Masculino,Não,".NET,SQL",9856.34
+Cientista de Dados,Júnior,1,Sudeste,Masculino,Sim,"Cloud,JavaScript,Python,SQL",7760.66
+Desenvolvedor Frontend,Sênior,11,Sudeste,Masculino,Sim,"Cloud,JavaScript",12969.05
+Engenheiro de DevOps,Júnior,2,Sudeste,Feminino,Sim,".NET,Mobile,Python,SQL",11103.56
+Engenheiro de Software,Sênior,9,Sudeste,Masculino,Não,".NET,Mobile,Python,SQL",18533.92
+Engenheiro de Software,Júnior,1,Sul,Masculino,Sim,"Java,Mobile,Python",9637.32
+Desenvolvedor Backend,Pleno,3,Sul,Masculino,Sim,"Cloud,Java,SQL",8168.04
+Desenvolvedor Backend,Sênior,10,Centro-Oeste,Masculino,Sim,"Cloud,Python,SQL",14452.21
+Cientista de Dados,Júnior,1,Sudeste,Masculino,Não,".NET,Cloud,Java",11495.49
+Engenheiro de DevOps,Sênior,8,Sudeste,Masculino,Não,"Cloud,JavaScript,SQL",18804.48
+Engenheiro de DevOps,Pleno,4,Nordeste,Masculino,Não,"Java,JavaScript",13267.94
+Desenvolvedor Frontend,Pleno,6,Sudeste,Masculino,Sim,"Cloud,Java,Mobile,SQL",10231.39
+Desenvolvedor Backend,Pleno,5,Sul,Feminino,Sim,".NET,Cloud,Java,JavaScript",9575.07
+Desenvolvedor Frontend,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript,Python",8845.16
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Sim,".NET,SQL",7374.08
+Engenheiro de Software,Júnior,2,Centro-Oeste,Feminino,Sim,".NET,JavaScript",8286.87
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Sim,"Cloud,Python",12425.44
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,"Data,JavaScript,SQL",4960.55
+Desenvolvedor Backend,Pleno,3,Nordeste,Masculino,Não,"Cloud,Java,Python,SQL",7563.92
+Cientista de Dados,Pleno,4,Centro-Oeste,Feminino,Sim,"Data,Java",10896.32
+Analista de Suporte,Pleno,3,Nordeste,Masculino,Sim,".NET,Cloud,Mobile,Python",4417.12
+Analista de QA,Júnior,0,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript",6908.72
+Cientista de Dados,Pleno,3,Nordeste,Masculino,Sim,".NET,Java,JavaScript,SQL",10773.43
+Engenheiro de Software,Sênior,9,Sul,Feminino,Não,"Cloud,Mobile,Python,SQL",16051.64
+Cientista de Dados,Júnior,2,Norte,Masculino,Não,".NET,JavaScript,Mobile,SQL",7358.49
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,".NET,Cloud,JavaScript",6300.39
+Analista de QA,Sênior,7,Sudeste,Masculino,Sim,".NET,Cloud,Python",12143.46
+Analista de Suporte,Júnior,1,Sudeste,Masculino,Não,".NET,Cloud,Data,SQL",5323.39
+Desenvolvedor Frontend,Pleno,2,Sudeste,Masculino,Sim,"Java,Mobile",10282.77
+Analista de QA,Sênior,6,Sudeste,Masculino,Sim,"Data,Python",12310.34
+Engenheiro de DevOps,Sênior,9,Sudeste,Masculino,Não,"Data,Python",16299.37
+Analista de Suporte,Júnior,1,Sul,Feminino,Não,"Data,JavaScript",4748.19
+Engenheiro de DevOps,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Python,SQL",15881.67
+Analista de QA,Pleno,4,Sudeste,Masculino,Sim,"Mobile,SQL",9016.58
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Sim,".NET,Cloud,Mobile,Python",10421.59
+Desenvolvedor Frontend,Pleno,6,Sudeste,Masculino,Não,".NET,Mobile,Python",8548.64
+Desenvolvedor Backend,Pleno,3,Sudeste,Feminino,Sim,".NET,Data,SQL",8951.84
+Analista de QA,Júnior,0,Sudeste,Feminino,Sim,".NET,JavaScript",5199.83
+Analista de Suporte,Júnior,3,Sudeste,Masculino,Não,"Cloud,Data,Mobile,SQL",6240.14
+Desenvolvedor Frontend,Pleno,4,Nordeste,Masculino,Sim,".NET,Cloud,Java,JavaScript",7752.22
+Analista de Suporte,Júnior,2,Nordeste,Masculino,Sim,"Cloud,JavaScript",4182.92
+Desenvolvedor Backend,Pleno,3,Sul,Masculino,Sim,"Data,Mobile,Python",9426.31
+Analista de QA,Júnior,0,Centro-Oeste,Masculino,Sim,".NET,Cloud,Python",5327.62
+Engenheiro de DevOps,Júnior,1,Nordeste,Feminino,Não,".NET,Data",9405.54
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Sim,".NET,Java,Python,SQL",9602.66
+Desenvolvedor Backend,Pleno,6,Sudeste,Masculino,Não,"Cloud,Python",10839.11
+Analista de Suporte,Pleno,3,Nordeste,Feminino,Sim,".NET,Cloud,Python",5015.5
+Engenheiro de Software,Júnior,2,Sul,Masculino,Sim,"Cloud,Data,Mobile,Python",9335.72
+Desenvolvedor Backend,Pleno,2,Sudeste,Masculino,Não,"Cloud,Java,SQL",8168.07
+Analista de Suporte,Sênior,9,Sudeste,Feminino,Não,"Data,Java,Python",11229.11
+Cientista de Dados,Pleno,1,Sudeste,Feminino,Sim,"Data,JavaScript,Mobile,Python",12245.05
+Analista de QA,Júnior,3,Sudeste,Masculino,Sim,"Java,JavaScript,Python,SQL",7371.64
+Engenheiro de Software,Júnior,1,Sul,Masculino,Sim,".NET,Mobile,SQL",11528.59
+Desenvolvedor Backend,Pleno,3,Sudeste,Masculino,Sim,"Data,SQL",10108.62
+Engenheiro de DevOps,Pleno,3,Centro-Oeste,Masculino,Sim,"Cloud,Data,Java,SQL",13003.62
+Analista de QA,Júnior,2,Sudeste,Masculino,Sim,"Mobile,SQL",8820.5
+Engenheiro de DevOps,Sênior,8,Nordeste,Masculino,Não,".NET,JavaScript",19584.3
+Analista de Suporte,Pleno,4,Sudeste,Feminino,Sim,"Cloud,JavaScript,Mobile",6844.77
+Desenvolvedor Backend,Júnior,1,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript",6481.46
+Analista de Suporte,Pleno,3,Centro-Oeste,Feminino,Sim,"Cloud,Data,Java,SQL",6200.21
+Cientista de Dados,Júnior,1,Centro-Oeste,Masculino,Sim,".NET,Cloud,JavaScript,SQL",10014.48
+Desenvolvedor Frontend,Júnior,2,Nordeste,Masculino,Sim,".NET,Java,Mobile,Python",4919.28
+Analista de QA,Sênior,10,Norte,Feminino,Sim,"Cloud,Python,SQL",14852.9
+Desenvolvedor Backend,Sênior,5,Sudeste,Masculino,Sim,".NET,Java,JavaScript,SQL",16698.65
+Desenvolvedor Backend,Júnior,0,Sul,Masculino,Sim,"Cloud,JavaScript,SQL",7612.28
+Analista de QA,Júnior,2,Sul,Feminino,Sim,"Data,Java,Mobile",7487.33
+Analista de Suporte,Pleno,2,Sudeste,Feminino,Sim,".NET,JavaScript,Python",6350.91
+Engenheiro de Software,Júnior,2,Sul,Masculino,Sim,".NET,Cloud,Data,Mobile",8762.24
+Cientista de Dados,Sênior,11,Sudeste,Masculino,Sim,".NET,Java,Python,SQL",17821.4
+Engenheiro de Software,Sênior,7,Nordeste,Feminino,Sim,".NET,Cloud,Java",13942.88
+Engenheiro de DevOps,Pleno,2,Sudeste,Masculino,Sim,".NET,Cloud,JavaScript,Mobile",12454.29
+Analista de Suporte,Júnior,0,Nordeste,Masculino,Sim,".NET,Data,Mobile,Python",4509.94
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,"JavaScript,SQL",7480.23
+Cientista de Dados,Pleno,3,Sudeste,Masculino,Não,".NET,Cloud,Mobile,Python",13554.36
+Engenheiro de Software,Sênior,5,Sudeste,Masculino,Não,".NET,Cloud,Data,JavaScript",14104.28
+Engenheiro de DevOps,Júnior,2,Sudeste,Masculino,Sim,".NET,Cloud,Data,JavaScript",13873.25
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,"Cloud,Data,Python",6335.95
+Analista de Suporte,Pleno,5,Centro-Oeste,Masculino,Sim,"Cloud,Java",6173.48
+Desenvolvedor Frontend,Sênior,10,Sudeste,Masculino,Não,".NET,Data",17207.13
+Desenvolvedor Frontend,Júnior,1,Nordeste,Feminino,Sim,".NET,Java,JavaScript,Python",5022.87
+Analista de QA,Júnior,3,Sudeste,Feminino,Sim,".NET,Java,SQL",6485.63
+Analista de Suporte,Júnior,0,Sudeste,Feminino,Não,"Cloud,Data,Python,SQL",4119.07
+Desenvolvedor Backend,Júnior,0,Sudeste,Masculino,Sim,".NET,Data,JavaScript,Mobile",7943.94
+Engenheiro de Software,Pleno,4,Centro-Oeste,Masculino,Sim,"Java,SQL",11874.4
+Engenheiro de DevOps,Júnior,2,Norte,Masculino,Não,"Cloud,Java,Python",10118.95
+Analista de QA,Pleno,4,Sudeste,Feminino,Sim,"Cloud,Data,Python,SQL",9433.9
+Engenheiro de DevOps,Pleno,2,Sul,Masculino,Não,"Java,Mobile,Python,SQL",13511.3
+Analista de QA,Júnior,1,Sudeste,Masculino,Não,".NET,Data,Java",7110.98
+Analista de QA,Pleno,2,Centro-Oeste,Masculino,Não,"JavaScript,Python",6386.2
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,".NET,Cloud,Data,Python",10840.0
+Cientista de Dados,Pleno,3,Sudeste,Masculino,Não,".NET,Cloud",13955.54
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Não,"Cloud,Python",12578.09
+Cientista de Dados,Júnior,4,Nordeste,Feminino,Não,"JavaScript,Mobile",7897.55
+Desenvolvedor Frontend,Pleno,3,Sudeste,Feminino,Não,"Java,JavaScript,SQL",9239.97
+Analista de QA,Sênior,10,Centro-Oeste,Feminino,Não,"Cloud,Java,SQL",9693.51
+Engenheiro de Software,Júnior,1,Nordeste,Feminino,Sim,".NET,Java,Mobile",7423.06
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Sim,"Data,Java,Python",10399.25
+Engenheiro de DevOps,Sênior,11,Sudeste,Masculino,Não,"Mobile,Python,SQL",22002.33
+Analista de QA,Pleno,2,Sudeste,Masculino,Sim,"Cloud,JavaScript,SQL",8091.66
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Sim,".NET,Data,Java,SQL",8378.82
+Engenheiro de DevOps,Pleno,4,Sul,Masculino,Sim,".NET,Data,Mobile",13796.14
+Desenvolvedor Frontend,Júnior,1,Sudeste,Masculino,Não,"Cloud,SQL",8008.86
+Engenheiro de DevOps,Júnior,0,Sul,Masculino,Sim,"Mobile,SQL",12726.82
+Engenheiro de Software,Sênior,9,Sul,Feminino,Não,"Data,SQL",19928.04
+Engenheiro de Software,Sênior,10,Sul,Masculino,Não,"Data,Java",15612.28
+Engenheiro de DevOps,Júnior,0,Sul,Masculino,Sim,".NET,Data",10688.11
+Cientista de Dados,Sênior,6,Sudeste,Masculino,Não,".NET,Data",17914.16
+Engenheiro de Software,Júnior,2,Centro-Oeste,Feminino,Sim,".NET,Mobile",6948.83
+Engenheiro de DevOps,Pleno,3,Centro-Oeste,Masculino,Sim,".NET,Cloud",15592.02
+Analista de Suporte,Sênior,9,Sudeste,Masculino,Não,"Cloud,Java,JavaScript,Python",11594.98
+Desenvolvedor Frontend,Sênior,9,Sudeste,Masculino,Sim,"Java,JavaScript,Python",14232.93
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Data,Java,JavaScript",11391.98
+Desenvolvedor Backend,Sênior,10,Sudeste,Masculino,Não,"Cloud,Java,JavaScript",16258.06
+Cientista de Dados,Sênior,7,Sul,Masculino,Não,"Cloud,Java,JavaScript,SQL",18244.82
+Engenheiro de Software,Pleno,4,Sudeste,Masculino,Não,".NET,Data,Java",12008.0
+Analista de QA,Sênior,8,Sudeste,Masculino,Sim,".NET,Cloud,Data,Python",15994.16
+Engenheiro de Software,Sênior,9,Nordeste,Feminino,Não,".NET,Java,JavaScript,SQL",12885.27
+Analista de QA,Sênior,9,Sudeste,Feminino,Não,"Cloud,JavaScript",11350.9
+Engenheiro de Software,Júnior,1,Nordeste,Masculino,Sim,"Cloud,JavaScript,Python,SQL",8105.8
+Desenvolvedor Backend,Sênior,8,Sudeste,Feminino,Sim,".NET,JavaScript",14451.5
+Desenvolvedor Frontend,Sênior,9,Sudeste,Masculino,Não,"Java,JavaScript,Mobile",13656.04
+Engenheiro de DevOps,Pleno,3,Sudeste,Masculino,Não,".NET,Mobile,Python",16311.31
+Engenheiro de DevOps,Sênior,7,Sudeste,Masculino,Não,".NET,Cloud,SQL",16648.14
+Engenheiro de Software,Pleno,6,Nordeste,Masculino,Não,".NET,Cloud,JavaScript",12098.24
+Analista de QA,Júnior,1,Sudeste,Masculino,Sim,"Cloud,Mobile,SQL",7673.78
+Desenvolvedor Frontend,Pleno,2,Sudeste,Masculino,Sim,".NET,Cloud,Mobile,SQL",9468.76
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Sim,"Cloud,Java,SQL",8097.3
+Desenvolvedor Frontend,Júnior,0,Sudeste,Feminino,Sim,"Data,JavaScript,Python,SQL",6010.04
+Analista de Suporte,Júnior,2,Nordeste,Masculino,Não,"Cloud,Java,JavaScript,Python",4722.71
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Sim,".NET,Cloud,Java,Python",5844.28
+Cientista de Dados,Júnior,0,Sudeste,Masculino,Não,".NET,Java,JavaScript,Mobile",11174.18
+Analista de QA,Júnior,1,Sudeste,Masculino,Sim,".NET,Data",6747.82
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Não,"Cloud,JavaScript,SQL",10782.64
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile",9930.78
+Analista de QA,Júnior,0,Sudeste,Masculino,Sim,".NET,Java,JavaScript,SQL",7233.0
+Engenheiro de Software,Júnior,0,Centro-Oeste,Masculino,Não,".NET,Java,Python,SQL",5986.96
+Analista de Suporte,Pleno,3,Nordeste,Masculino,Não,"Data,Java,SQL",5041.63
+Analista de Suporte,Júnior,1,Nordeste,Feminino,Sim,"Cloud,JavaScript,Python",4391.87
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile,Python",5131.27
+Analista de Suporte,Júnior,1,Sudeste,Masculino,Sim,"Cloud,JavaScript,Mobile,Python",5616.29
+Analista de Suporte,Júnior,1,Sudeste,Masculino,Sim,"Cloud,Java,SQL",5741.88
+Desenvolvedor Frontend,Pleno,4,Sudeste,Masculino,Sim,".NET,Cloud,SQL",10239.9
+Desenvolvedor Frontend,Pleno,5,Sudeste,Feminino,Sim,".NET,Mobile,Python",8320.62
+Engenheiro de DevOps,Pleno,1,Sudeste,Masculino,Sim,"Data,Mobile",13997.52
+Engenheiro de Software,Júnior,2,Sudeste,Masculino,Não,".NET,Java",6626.09
+Analista de Suporte,Júnior,2,Norte,Feminino,Sim,"Cloud,Mobile",4704.63
+Desenvolvedor Backend,Sênior,10,Nordeste,Masculino,Não,"Cloud,Java",11720.45
+Desenvolvedor Frontend,Júnior,2,Sudeste,Masculino,Sim,"Data,Java,JavaScript,SQL",7606.1
+Cientista de Dados,Júnior,2,Sul,Feminino,Sim,"Java,JavaScript,SQL",10228.09
+Engenheiro de Software,Sênior,8,Sudeste,Masculino,Sim,"Cloud,Java,JavaScript",18228.1
+Desenvolvedor Frontend,Pleno,4,Sudeste,Feminino,Não,"Java,JavaScript,Mobile",8818.9
+Analista de Suporte,Júnior,0,Sul,Masculino,Não,".NET,Java,JavaScript,SQL",4034.74
+Analista de Suporte,Pleno,2,Nordeste,Masculino,Sim,".NET,Data,Java,SQL",5760.43
+Engenheiro de DevOps,Júnior,1,Centro-Oeste,Masculino,Não,".NET,Cloud,Data",10931.75
+Engenheiro de Software,Pleno,3,Sudeste,Masculino,Sim,"Cloud,Java",11328.2
+Cientista de Dados,Pleno,5,Norte,Feminino,Sim,".NET,Data,Java,SQL",8864.2
+Desenvolvedor Frontend,Pleno,2,Sul,Masculino,Sim,".NET,Java,Mobile",6817.67
+Desenvolvedor Frontend,Júnior,1,Sudeste,Masculino,Sim,"Cloud,Mobile",8076.26
+Analista de QA,Júnior,0,Centro-Oeste,Masculino,Sim,"Data,JavaScript",5792.44
+Analista de Suporte,Pleno,4,Sudeste,Masculino,Sim,"Cloud,Java,SQL",7527.83
+Engenheiro de Software,Pleno,2,Sudeste,Masculino,Sim,"JavaScript,Python",13392.05
+Engenheiro de Software,Júnior,0,Sudeste,Feminino,Sim,"Java,Mobile",8272.95
+Engenheiro de DevOps,Júnior,0,Sul,Masculino,Não,"Cloud,Data,Java,Python",8632.18
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Não,"Cloud,Data,Python,SQL",7142.18
+Analista de QA,Júnior,1,Sudeste,Masculino,Não,"Cloud,Java",5030.74
+Desenvolvedor Frontend,Júnior,0,Norte,Masculino,Sim,".NET,Java,JavaScript",5244.02
+Engenheiro de Software,Júnior,0,Sul,Masculino,Sim,".NET,Cloud,Java,Python",9511.0
+Desenvolvedor Frontend,Pleno,3,Nordeste,Feminino,Sim,".NET,Java",8062.88
+Engenheiro de DevOps,Júnior,0,Nordeste,Masculino,Sim,"JavaScript,Python",7892.84
+Engenheiro de DevOps,Júnior,1,Norte,Masculino,Sim,".NET,Cloud,Java,JavaScript",10029.13
+Desenvolvedor Backend,Pleno,4,Centro-Oeste,Masculino,Sim,".NET,Data,JavaScript",9415.46
+Engenheiro de Software,Júnior,0,Sudeste,Masculino,Sim,".NET,Java",9203.36
+Cientista de Dados,Sênior,11,Sudeste,Masculino,Sim,"Data,Python",20037.82
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Sim,"Cloud,Python,SQL",10400.92
+Engenheiro de DevOps,Pleno,5,Nordeste,Masculino,Não,"Data,Java",11523.02
+Cientista de Dados,Júnior,3,Centro-Oeste,Masculino,Não,"JavaScript,Mobile,SQL",9460.35
+Desenvolvedor Frontend,Pleno,2,Sudeste,Feminino,Sim,".NET,Cloud,Data,SQL",8768.74
+Engenheiro de Software,Sênior,10,Sudeste,Masculino,Sim,".NET,JavaScript,SQL",19189.52
+Desenvolvedor Backend,Pleno,4,Nordeste,Feminino,Sim,".NET,Mobile,SQL",8032.6
+Analista de QA,Sênior,8,Sudeste,Masculino,Sim,"Cloud,Data,Mobile,Python",14164.04
+Analista de QA,Júnior,2,Sudeste,Masculino,Não,".NET,SQL",6356.7
+Desenvolvedor Frontend,Júnior,0,Centro-Oeste,Feminino,Não,".NET,Java,JavaScript",5628.52
+Cientista de Dados,Sênior,8,Sudeste,Masculino,Não,"JavaScript,SQL",17775.75
+Engenheiro de Software,Júnior,0,Sudeste,Feminino,Sim,".NET,Mobile,SQL",9156.19
+Engenheiro de DevOps,Sênior,7,Sudeste,Feminino,Sim,".NET,Data,SQL",18567.28
+Engenheiro de Software,Júnior,3,Sudeste,Masculino,Não,"Data,Mobile,SQL",10713.15
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Sim,".NET,Java,Mobile",11433.36
+Desenvolvedor Backend,Júnior,2,Norte,Feminino,Não,"Java,SQL",5674.46
+Desenvolvedor Backend,Pleno,3,Sudeste,Feminino,Sim,"Cloud,Java,JavaScript,Mobile",11531.24
+Engenheiro de DevOps,Pleno,0,Sudeste,Masculino,Sim,"Data,Java,JavaScript",14250.32
+Engenheiro de DevOps,Júnior,0,Sudeste,Feminino,Não,"Cloud,Data,SQL",9538.95
+Analista de Suporte,Sênior,9,Sudeste,Masculino,Sim,".NET,Cloud,JavaScript,SQL",10625.38
+Desenvolvedor Backend,Júnior,0,Sudeste,Feminino,Não,".NET,Java,Mobile",7569.05
+Engenheiro de Software,Pleno,4,Nordeste,Masculino,Sim,"Data,Python",9153.1
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Sim,".NET,Java,JavaScript,Mobile",6726.24
+Desenvolvedor Frontend,Júnior,2,Centro-Oeste,Feminino,Sim,"Cloud,Java,SQL",6061.94
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Não,".NET,Mobile",12827.08
+Cientista de Dados,Sênior,10,Centro-Oeste,Masculino,Não,"Data,Java,JavaScript,Mobile",19055.13
+Engenheiro de Software,Pleno,2,Norte,Masculino,Sim,"Cloud,Data,Python,SQL",10444.26
+Analista de QA,Sênior,9,Sudeste,Masculino,Sim,"Data,Java,JavaScript,Mobile",13752.44
+Analista de QA,Júnior,3,Sul,Masculino,Não,"Cloud,SQL",5448.88
+Desenvolvedor Frontend,Sênior,9,Nordeste,Feminino,Sim,"Data,JavaScript,Mobile",11446.29
+Desenvolvedor Frontend,Sênior,8,Sudeste,Masculino,Sim,"Data,JavaScript,Mobile,SQL",15576.62
+Engenheiro de Software,Pleno,2,Sudeste,Masculino,Não,"Cloud,SQL",11270.65
+Analista de QA,Pleno,6,Centro-Oeste,Masculino,Sim,".NET,SQL",9452.87
+Cientista de Dados,Pleno,2,Sudeste,Feminino,Sim,"JavaScript,Mobile",12461.59
+Desenvolvedor Frontend,Júnior,3,Sudeste,Masculino,Não,".NET,Data,Java,JavaScript",7165.68
+Analista de QA,Pleno,3,Sul,Masculino,Sim,"Data,Mobile,SQL",8139.64
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Sim,".NET,JavaScript,Mobile,Python",15610.94
+Analista de Suporte,Pleno,3,Sudeste,Feminino,Sim,".NET,Cloud,JavaScript,Mobile",6125.93
+Analista de Suporte,Pleno,2,Sudeste,Masculino,Sim,"Data,SQL",7208.08
+Analista de Suporte,Júnior,3,Sudeste,Feminino,Não,"Data,Java,Python,SQL",4692.9
+Analista de Suporte,Júnior,1,Sudeste,Masculino,Não,".NET,Data,Java,SQL",4965.99
+Cientista de Dados,Pleno,4,Sudeste,Masculino,Sim,"Python,SQL",12584.09
+Analista de Suporte,Sênior,9,Sudeste,Masculino,Sim,"Cloud,Python",11443.38
+Engenheiro de DevOps,Júnior,0,Nordeste,Masculino,Sim,"Cloud,Java,JavaScript,Python",7514.46
+Engenheiro de DevOps,Júnior,2,Norte,Masculino,Não,".NET,Java,SQL",10473.05
+Desenvolvedor Frontend,Sênior,9,Sul,Masculino,Sim,"Cloud,Java",15241.05
+Desenvolvedor Frontend,Sênior,8,Sudeste,Masculino,Não,"Java,Mobile,Python",13187.1
+Analista de QA,Pleno,4,Sudeste,Masculino,Não,"Java,JavaScript,Python,SQL",8142.48
+Engenheiro de DevOps,Pleno,5,Centro-Oeste,Masculino,Sim,"Java,Mobile,SQL",13961.35
+Engenheiro de DevOps,Pleno,2,Nordeste,Masculino,Sim,"JavaScript,Python,SQL",10966.3
+Desenvolvedor Frontend,Júnior,0,Sudeste,Masculino,Não,"Mobile,SQL",6649.96
+Desenvolvedor Backend,Sênior,9,Nordeste,Masculino,Não,"Cloud,Data,Java,Python",11482.57
+Desenvolvedor Frontend,Sênior,11,Norte,Feminino,Não,"Java,Python",12254.37
+Analista de Suporte,Pleno,5,Centro-Oeste,Masculino,Não,".NET,Mobile,SQL",5709.21
+Engenheiro de DevOps,Pleno,5,Sudeste,Masculino,Não,".NET,Cloud,Data,Python",14791.78
+Engenheiro de DevOps,Sênior,9,Sudeste,Feminino,Sim,"JavaScript,Mobile",19168.84
+Desenvolvedor Frontend,Júnior,3,Sudeste,Masculino,Não,"Data,SQL",7160.81
+Analista de QA,Júnior,1,Sudeste,Masculino,Sim,"Data,Java",7761.02
+Engenheiro de DevOps,Sênior,10,Nordeste,Feminino,Sim,"Java,Mobile",20403.15
+Desenvolvedor Frontend,Pleno,6,Norte,Feminino,Sim,"Cloud,JavaScript,Python,SQL",6992.7
+Desenvolvedor Frontend,Pleno,3,Nordeste,Masculino,Sim,".NET,Mobile,Python",8386.18
+Desenvolvedor Backend,Júnior,4,Sudeste,Masculino,Não,".NET,Java,JavaScript,Mobile",9078.92
+Engenheiro de Software,Pleno,3,Norte,Masculino,Sim,"Cloud,Data,JavaScript,Mobile",10809.06
+Desenvolvedor Frontend,Júnior,1,Centro-Oeste,Masculino,Sim,"Data,Mobile",6402.28
+Engenheiro de Software,Sênior,8,Nordeste,Feminino,Não,"Java,Mobile,SQL",13929.96
+Cientista de Dados,Pleno,5,Sudeste,Feminino,Sim,"Cloud,Mobile,SQL",14173.75
+Desenvolvedor Frontend,Sênior,8,Nordeste,Masculino,Sim,".NET,Java,JavaScript,Mobile",10981.0
+Engenheiro de DevOps,Pleno,3,Nordeste,Feminino,Sim,".NET,JavaScript,Python",10803.71
+Engenheiro de Software,Júnior,2,Sul,Feminino,Sim,"Data,Java,Mobile",9385.86
+Cientista de Dados,Sênior,10,Nordeste,Feminino,Sim,"Data,Java,Mobile",16495.55
+Desenvolvedor Backend,Júnior,1,Sudeste,Masculino,Não,"Data,Mobile",6534.33
+Engenheiro de DevOps,Júnior,2,Sudeste,Feminino,Sim,"Mobile,SQL",9321.96
+Engenheiro de Software,Sênior,7,Sudeste,Feminino,Sim,".NET,Java,JavaScript,Python",16059.7
+Desenvolvedor Backend,Pleno,3,Sudeste,Masculino,Não,".NET,Java,JavaScript,Python",8729.43
+Desenvolvedor Frontend,Júnior,0,Centro-Oeste,Feminino,Sim,"Cloud,Java,Mobile,SQL",6641.5
+Desenvolvedor Backend,Pleno,4,Sul,Masculino,Não,".NET,Data,JavaScript,Python",9685.26
+Engenheiro de Software,Júnior,0,Sudeste,Feminino,Sim,"JavaScript,Mobile",7984.13
+Desenvolvedor Backend,Júnior,2,Nordeste,Masculino,Sim,"Mobile,Python",6635.92
+Cientista de Dados,Sênior,9,Sudeste,Masculino,Sim,".NET,Cloud",18891.56
+Desenvolvedor Backend,Pleno,4,Sudeste,Masculino,Não,".NET,Python",8121.76
+Desenvolvedor Frontend,Pleno,2,Sudeste,Feminino,Não,".NET,Cloud,Java,SQL",8541.77
+Cientista de Dados,Pleno,1,Sudeste,Masculino,Sim,"JavaScript,Mobile,SQL",14747.85
+Desenvolvedor Backend,Pleno,3,Nordeste,Masculino,Não,"Cloud,JavaScript",8277.44
+Analista de Suporte,Pleno,2,Sudeste,Masculino,Sim,".NET,JavaScript,Mobile",6769.65
+Engenheiro de DevOps,Júnior,2,Sudeste,Masculino,Sim,".NET,Data,Mobile",8769.19
+Desenvolvedor Backend,Pleno,3,Centro-Oeste,Feminino,Sim,"Data,JavaScript,SQL",9206.16
+Desenvolvedor Frontend,Pleno,2,Sudeste,Masculino,Sim,".NET,Data,Java,Python",7929.57
+Analista de QA,Pleno,2,Sudeste,Feminino,Sim,".NET,Java,JavaScript,SQL",9630.36
+Desenvolvedor Frontend,Pleno,3,Sudeste,Masculino,Sim,"Cloud,JavaScript",8376.86
+Cientista de Dados,Pleno,4,Sul,Feminino,Não,".NET,Cloud,JavaScript",13427.64
+Desenvolvedor Frontend,Júnior,2,Centro-Oeste,Masculino,Sim,".NET,Mobile",6997.32
+Cientista de Dados,Pleno,3,Norte,Masculino,Sim,".NET,Cloud,Mobile,Python",11024.94
+Analista de QA,Júnior,0,Sudeste,Feminino,Sim,"Cloud,Data,JavaScript,Python",6014.79
+Engenheiro de Software,Júnior,2,Centro-Oeste,Masculino,Sim,".NET,Data,Java,JavaScript",7764.4
+Analista de QA,Pleno,4,Sul,Masculino,Sim,"JavaScript,Mobile,SQL",6956.91
+Analista de Suporte,Júnior,0,Sudeste,Masculino,Sim,".NET,Cloud,Mobile,Python",6677.31
+Engenheiro de Software,Pleno,5,Sudeste,Feminino,Não,".NET,Cloud",13271.8
+Cientista de Dados,Júnior,0,Sudeste,Feminino,Não,"Java,Mobile",9953.62
+Desenvolvedor Frontend,Pleno,2,Centro-Oeste,Masculino,Sim,".NET,Java,Mobile",7340.69
+Desenvolvedor Frontend,Pleno,5,Sul,Masculino,Não,".NET,Mobile,SQL",9913.7
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Cloud,Mobile,Python",5892.25
+Engenheiro de DevOps,Sênior,8,Nordeste,Masculino,Sim,".NET,Data,JavaScript,Mobile",17249.91
+Desenvolvedor Frontend,Pleno,2,Sudeste,Masculino,Sim,"Data,JavaScript,SQL",8602.76
+Engenheiro de DevOps,Pleno,2,Centro-Oeste,Feminino,Sim,"Cloud,SQL",12609.44
+Desenvolvedor Frontend,Pleno,4,Sudeste,Masculino,Sim,".NET,Data,SQL",10688.58
+Engenheiro de DevOps,Pleno,3,Nordeste,Masculino,Sim,"Data,Mobile,Python",11014.05
+Analista de QA,Júnior,0,Sudeste,Masculino,Não,"Mobile,Python,SQL",7588.13
+Engenheiro de Software,Júnior,2,Nordeste,Feminino,Não,"Data,Java,Mobile,SQL",5424.24
+Desenvolvedor Frontend,Sênior,8,Centro-Oeste,Masculino,Sim,".NET,Mobile",9721.68
+Analista de QA,Júnior,0,Nordeste,Masculino,Sim,".NET,Python",5860.05
+Analista de Suporte,Pleno,3,Sudeste,Masculino,Não,"Java,JavaScript",7832.24
+Desenvolvedor Backend,Pleno,1,Nordeste,Feminino,Não,"Data,Mobile",5418.36
+Desenvolvedor Backend,Sênior,8,Sudeste,Feminino,Sim,"Cloud,Data",17642.58
+Engenheiro de Software,Sênior,8,Sudeste,Masculino,Sim,"Cloud,Python",17460.75
+Analista de QA,Sênior,8,Sudeste,Masculino,Sim,"Data,Python",14109.02
+Desenvolvedor Backend,Sênior,10,Norte,Feminino,Não,"Python,SQL",12993.78
+Engenheiro de DevOps,Pleno,3,Sudeste,Feminino,Não,"Data,JavaScript,Python",14619.31
+Engenheiro de DevOps,Pleno,4,Sudeste,Masculino,Não,"Data,SQL",14661.22
